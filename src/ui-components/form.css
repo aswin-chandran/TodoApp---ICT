@@ -1,0 +1,17 @@
+.Todo-text{
+    padding: 2px 8px;
+    height: 3em;
+    width: 18em;
+    margin-top: 15px;
+    background: none;
+    outline: none;
+    border:1px rgb(0, 157, 255) solid;
+}
+.Todo-button{
+    padding: 15px;
+    margin-left: 5px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
